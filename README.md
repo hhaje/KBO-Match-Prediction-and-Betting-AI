@@ -1,4 +1,4 @@
-# 스포츠 베팅 AI 예측 시스템
+# KBO Match Prediction and Betting AI
 
 ## 📋 프로젝트 개요
 
@@ -16,7 +16,7 @@
 - **KBO (한국프로야구)**: 공인 경기 기록 및 스포츠토토 배당 데이터 활용
 - **시계열 데이터**: 팀 성과, 선수 통계, 경기 조건 등 다차원 데이터 분석
 
-### 기술적 접근ㄴㄴ
+### 기술적 접근
 - **데이터베이스**: SQL 기반 데이터 저장 및 관리
 - **ETL 파이프라인**: 데이터 수집-정제-적재 프로세스 자동화
 - **딥러닝 모델**: LSTM, GRU 등 시계열 예측 모델 적용
@@ -36,8 +36,8 @@
 - **전처리**: Scikit-learn, NumPy
 
 ### 웹 개발
-- **Frontend**: React.js / Vue.js
-- **Backend**: FastAPI / Django
+- **Frontend**: React.js
+- **Backend**: FastAPI
 - **시각화**: D3.js, Chart.js, Plotly
 
 ### 인프라
@@ -51,7 +51,7 @@
 - **수익률 (ROI)**: 투자 대비 수익률
 - **예측 정확도**: LogLoss, Brier Score
 - **안정성**: Maximum Drawdown (MDD)
-- **시장 효율성**: CL V (Calibration Loss Variance)
+- **시장 효율성**: CLV (Calibration Loss Variance)
 
 ### 보조 지표
 - **EV 캡처율**: Expected Value 달성률
@@ -268,7 +268,7 @@ python scripts/evaluate_model.py
 
 ## 📞 연락처
 
-프로젝트 링크: [https://github.com/your-username/sports-betting-ai](https://github.com/your-username/sports-betting-ai)
+프로젝트 링크: [https://github.com/hhaje/KBO-Match-Prediction-and-Betting-AI](https://github.com/hhaje/KBO-Match-Prediction-and-Betting-AI)
 
 ## ⚠️ 면책 조항
 
